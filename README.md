@@ -24,7 +24,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 1. **Clone ou baixe este repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/Meu_agente_IA.git](https://github.com/seu-usuario/Meu_agente_IA.git)
+   git clone https://github.com/memojsalas/Meu_agente_IA.git
    cd Meu_agente_IA
    ```
 
